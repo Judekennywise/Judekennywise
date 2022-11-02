@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Judekennywise
-- 👀 I’m interested in Python programming
+- 👀 I’m interested in Backend development 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me +2348101624474
 
 <!---
